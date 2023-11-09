@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/YtbW9byLQgTq9Nhk8)](https://github.com/Anishpokhrel04)
+
 
 <h1 align="center">Hi 👋, I'm Anish Pokhrel</h1>
 <h3 align="center">A passionate frontend developer who likes to code mostly on React</h3>
