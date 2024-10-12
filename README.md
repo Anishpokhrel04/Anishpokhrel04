@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/anishpokhrel2" target="blank"><img src="https://img.shields.io/twitter/follow/anishpokhrel2?logo=twitter&style=for-the-badge" alt="anishpokhrel2" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, Javascript, Html, tailwindCSS**
 
