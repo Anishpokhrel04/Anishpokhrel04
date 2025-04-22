@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pokhrelanish001@gmail.com**
 
-  ### 📦 My NPM Packages
+### 📦 My NPM Packages
 
 [![npm](https://img.shields.io/npm/dw/antd-nepali-date-picker)](https://www.npmjs.com/package/antd-nepali-date-picker)
 
