@@ -14,6 +14,10 @@
 
 - 📫 How to reach me **pokhrelanish001@gmail.com**
 
+  ### 📦 My NPM Packages
+
+[![npm](https://img.shields.io/npm/dw/antd-nepali-date-picker)](https://www.npmjs.com/package/antd-nepali-date-picker)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anishpokhrel2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishpokhrel2" height="30" width="40" /></a>
